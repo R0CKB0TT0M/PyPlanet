@@ -16,7 +16,7 @@ Debian / Ubuntu
 
 Install the operating system requirements by executing the following commands:
 
-``sudo apt-get update && sudo apt-get install build-essential libssl-dev libffi-dev python3-dev zlib1g-dev liblzma-dev libpq-dev libbz2-dev libreadline-dev libsqlite3-dev libpq-dev ``
+``sudo apt-get update && sudo apt-get install build-essential libssl-dev libffi-dev python3-dev zlib1g-dev liblzma-dev libpq-dev libbz2-dev libreadline-dev libsqlite3-dev libpq-dev curl git``
 
 Fedora / RHEL based
 ```````````````````
